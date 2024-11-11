@@ -65,9 +65,9 @@ This project involves analyzing a **restaurant dataset** to uncover key trends a
 
 ## Deliverables and Documentation
 
-- **[Dataset Link](#)**: Direct link to the restaurant dataset used for analysis.  
-- **[Jupyter Notebook Documentation (PDF)](path-to-jupyter-notebook-pdf)**: Downloadable PDF containing all analysis steps and code from the Jupyter Notebook.  
-- **[Internship Task Documentation (PDF)](path-to-internship-task-pdf)**: Detailed documentation outlining all the internship tasks completed and their corresponding solutions.
+- **[Dataset Link](https://github.com/Bhushan148/Restaurant-Data-Analysis-Insights/blob/main/project-docs-and-assets/Dataset%20.csv)**: Direct link to the restaurant dataset used for analysis.  
+- **[Jupyter Notebook Documentation (PDF)](https://github.com/Bhushan148/Restaurant-Data-Analysis-Insights/blob/main/project-docs-and-assets/Cognifyz%20Technologies%20Task%20final%20Document.pdf)**: Downloadable PDF containing all analysis steps and code from the Jupyter Notebook.  
+- **[Internship Task Documentation (PDF)](https://github.com/Bhushan148/Restaurant-Data-Analysis-Insights/blob/main/project-docs-and-assets/Data%20Analysis%20Internship%20Task%20.pdf)**: Detailed documentation outlining all the internship tasks completed and their corresponding solutions.
 
 ---
 
@@ -77,6 +77,7 @@ You can access the interactive version of the notebook on Google Colab:
 [Restaurant Data Analysis Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)
 
 This notebook contains the complete code, visualizations, and analysis steps for the project.
+
 
 ---
 
