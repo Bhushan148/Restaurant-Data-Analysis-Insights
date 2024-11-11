@@ -1,6 +1,6 @@
 # Restaurant Data Analysis Internship - Project Report
 
-**Connect with me on [LinkedIn](#)**
+**Connect with me on [LinkedIn](https://www.linkedin.com/in/bhushan-gawali-97b645233/)**
 
 ---
 
