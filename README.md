@@ -71,17 +71,12 @@ This project involves analyzing a **restaurant dataset** to uncover key trends a
 
 ---
 
-## Final Thoughts
+## 📔 Interactive Notebook on Google Colab
 
-Thank you for reviewing my project repository. The insights gathered from this analysis are designed to provide valuable recommendations for restaurant owners, helping them enhance customer satisfaction, optimize operations, and drive growth. I hope you find the work insightful and comprehensive.
+You can access the interactive version of the notebook on Google Colab:  
+[Restaurant Data Analysis Notebook](https://colab.research.google.com/drive/YOUR_NOTEBOOK_ID)
 
----
-
-## 📚 Additional Resources
-
-- [**Python Libraries Used**](#): List of Python libraries used in the project.
-- [**SQL Queries**](#): A detailed breakdown of all SQL queries used for data extraction and analysis.
-- [**Data Visualization Tools**](#): Overview of tools like **Matplotlib**, **Seaborn**, **Plotly**, and **Folium** used for presenting data visually.
+This notebook contains the complete code, visualizations, and analysis steps for the project.
 
 ---
 
